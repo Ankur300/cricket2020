@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "5",
+      "name": "atul123",
+      "matches": "242",
+      "runs": "1245",
+      "wicket": "32"
+    },
+    {
+      "id": "6",
+      "name": "Akhil",
+      "matches": "52",
+      "runs": "1089",
+      "wicket": "120"
+    },
+    {
+      "id": "12",
+      "name": "Akhil",
+      "matches": "25",
+      "runs": "450",
+      "wicket": "30"
+    },
+    {
+      "id": "15",
+      "name": "Ankur123",
+      "matches": "133",
+      "runs": "1089",
+      "wicket": "134"
+    }
+  ],
+  "registration": [
+    {
+      "EmailId": "abc@gmail.com",
+      "Name": "akt",
+      "Sports": "crciket",
+      "id": 5
+    },
+    {
+      "EmailId": "ab1c@gmail.com",
+      "Name": "ankur",
+      "id": 6
+    },
+    {
+      "EmailId": "abc@gmail.com",
+      "Name": "ankur",
+      "id": 7
+    },
+    {
+      "EmailId": "abc@gmail.com",
+      "Name": "ankur",
+      "id": 8
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+const app=require('../app');
+const config=require('../config');
+const _port=(config.WWW_PORT||3000)
+app.listen(_port,()=>{
+    console.log("user api is runing at",_port)
+});
